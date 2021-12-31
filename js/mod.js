@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "Tree, Inc.",
+	name: "公司树 - Tree, Inc.",
 	id: "capitalism",
 	author: "randomtuba",
 	pointsName: "money",
